@@ -1,6 +1,20 @@
 # 💫 Hi 👋 , I'm **Vimal Yadav** 
-## <br>**Software Engineer | Data Analyst | Data Scientist**<br><br>I’m passionate about building real-world applications and extracting insights from data. I focus on combining **backend development, databases, and AI** to solve meaningful problems.<br><br>💼 **Virtual Internships**<br>- JP Morgan Software Engineering (Forage)  <br>- Tata Cyber Security  <br>- Tata Data Visualisation: Empowering Business with Effective Insights  <br>- Deloitte Data Analytics Job Simulation <br>🌱 Currently learning:<br>- Advanced Backend Development  <br>- AI + Software Integration  <br><br>🎯 Goal: To build scalable systems and become a top-tier software engineer.
+**Software Engineer | Data Analyst | Data Scientist**
 
+I’m passionate about building real-world applications and extracting insights from data. I focus on combining **backend development, databases, and AI** to solve meaningful problems.
+
+🌱 Currently learning:
+- Advanced Backend Development 
+- AI + Software Integration
+
+🎯 Goal: 
+To build scalable systems and become a top-tier software engineer.
+
+💼 **Virtual Internships**
+- JP Morgan Software Engineering (Forage)
+- Deloitte Data Analytics Job Simulation
+- Tata Cyber Security
+- Tata Data Visualisation: Empowering Business with Effective Insights
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vimalyadav_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimal-yadav-025187385) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimal9676@gmail.com) 
