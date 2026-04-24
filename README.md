@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00B0FF&height=250&section=header&text=Vimal%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00B0FF&height=250&section=header&text=Vimal%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" />
 </p>
 
------
-
 <div align="center">
-
-### 🚀 Software Engineer | Data Analyst | Data Scientist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications+💻;Exploring+Data+Science+%26+AI+📊;Backend+%2B+AI+Integration+⚙️;Turning+Ideas+Into+Real+Products+🚀" />
 
