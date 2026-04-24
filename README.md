@@ -1,12 +1,9 @@
-# 💫 Hi 👋, I'm <b>Vimal Yadav</b>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00B0FF&height=250&section=header&text=Vimal%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+🚀;Building+AI+%2B+Backend+Systems+⚙️;Always+Learning+New+Tech+📚" />
-</p>
+-----
+
 <div align="center">
 
 ### 🚀 Software Engineer | Data Analyst | Data Scientist
